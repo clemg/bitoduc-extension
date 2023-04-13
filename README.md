@@ -6,7 +6,7 @@ L'extension remplace tout les mots anglais listés sur la page [bitoduc.fr](http
 
 # Installation
 ### Firefox
-Disponible à l'adresse: [lien firefox addons]()
+Disponible à l'adresse: [lien firefox addons](https://addons.mozilla.org/en-US/firefox/addon/bitoduc-extension/)
 
 ### Chrome
 Comme publier une extension pour Chrome est payant, il faut le faire manuellement.
